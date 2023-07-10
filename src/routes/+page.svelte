@@ -286,7 +286,7 @@
 <section class="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12 h-screen flex justify-center items-center">
 	<div class="text-center">
 		<div class="flex justify-center ">
-			<Avatar src="/images/ava.webp" rounded size="xl" class="object-center" dot={{color:"green", size: "xl", placement:"top-right"}}/>
+			<Avatar src="./images/ava.webp" rounded size="xl" class="object-center" dot={{color:"green", size: "xl", placement:"top-right"}}/>
 
 		</div>
 	
