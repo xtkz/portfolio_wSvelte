@@ -9,4 +9,5 @@ export default defineConfig({
 	ssr: {
 		noExternal: ['three', 'troika-three-text']
 	},
+	base: '/portfolio_wSvelte/'
 });
