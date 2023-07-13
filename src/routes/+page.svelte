@@ -11,7 +11,7 @@
 
 
 	const cardsDataProg = [
-		{title: 'Плэйбл GardenScapes<br>с&nbspтрубой',
+		{title: 'Плэйбл Gardenscapes<br>с&nbspтрубой',
 			image: './images/playable-pipe.webp',
 			text: 'Все права принадлежат Playrix.',
 			badges: [
@@ -23,7 +23,7 @@
 			buttonTitle: 'Играть сейчас',
 			buttonLink: 'http://g9514803.beget.tech/playable/index.html'
 		},
-		{title: 'Плэйбл GardenScapes<br>с&nbspключами',
+		{title: 'Плэйбл Gardenscapes<br>с&nbspключами',
 			image: './images/playable-keys.webp',
 			text: 'Все права принадлежат Playrix.',
 			badges: [
@@ -153,7 +153,7 @@
 			buttonLink: 'https://youtu.be/zPlln5W1XHE'
 		},
 		
-		{title: 'Видео HomeScapes<br>с&nbsp тактильным ремонтом',
+		{title: 'Видео Homescapes<br>с&nbsp тактильным ремонтом',
 			image: './images/video-hs-3DRoom.webp',
 			text: 'Рекламный креатив 3D<br> Синька и Октан <br> Все права принадлежат Playrix.',
 			badges: [
@@ -166,7 +166,7 @@
 			buttonLink: 'https://youtu.be/6W3NlxohF4U'
 		},
 
-		{title: 'Видео GardenScapes<br>с&nbspколесом фортуны',
+		{title: 'Видео Gardenscapes<br>с&nbspколесом фортуны',
 			image: './images/video-gs-wheel.webp',
 			text: 'Рекламный креатив, 3.6M views <br> И это только на перезаливе! <br> Все права принадлежат Playrix.',
 			badges: [
@@ -180,7 +180,7 @@
 			buttonLink: 'https://youtu.be/qekzJP7e5L0?t=354'
 		},
 
-		{title: 'Видео Fishdom<br>с&nbspс пожиранием мальков',
+		{title: 'Видео Fishdom<br>с&nbspпожиранием мальков',
 			image: './images/video-fd-feast.webp',
 			text: `Рекламный креатив
 				<br>Траектория рыбы полностью программная и может быть отредактирована «на ходу».
@@ -195,7 +195,7 @@
 			buttonLink: 'https://youtu.be/3PdOJDBjXKM'
 		},
 
-		{title: 'Видео HomeScapes<br>с&nbsp котом и аквариумом',
+		{title: 'Видео Homescapes<br>с&nbsp котом и аквариумом',
 			image: './images/video-hs-cat.webp',
 			text: 'Рекламный креатив, 18k views <br> И это только на перезаливе. <br> Все права принадлежат Playrix.',
 			badges: [
@@ -207,7 +207,7 @@
 			buttonLink: 'https://youtu.be/KntcsuGpEMI'
 		},
 
-		{title: 'Видео GardenScapes<br>с&nbspплачущей женщиной',
+		{title: 'Видео Gardenscapes<br>с&nbspплачущей женщиной',
 			image: './images/video-gs-woman.webp',
 			text: 'Рекламный креатив, 31k views <br> И это только на перезаливе <br> Все права принадлежат Playrix.',
 			badges: [

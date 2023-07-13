@@ -9,8 +9,14 @@
     const material2 = makeRainbowShader(400, 1.2)
     const material3 = makeRainbowShader(600, 1.4)
 
+    const transp = tweened(0, {
+		duration: 1_000,
+
+	});
 
     onMount(() => {
+        console.log('APPEAR');
+        transp.set(1)
         let frame = requestAnimationFrame(function loop(t) {
             frame = requestAnimationFrame(loop);
 
@@ -33,7 +39,7 @@
     const gridHelper = new THREE.GridHelper(20, 10);
 </script>
 
-<div>
+<div style="opacity:{$transp};">
     <Threlte.Canvas>
         <Threlte.PerspectiveCamera
             position={{x:0,y:5,z:12}} fov={50}
